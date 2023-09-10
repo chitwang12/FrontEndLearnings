@@ -1,0 +1,19 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+  }
+
+  .box {
+    width: 200px;
+    height: 200px;
+    background-color: red;
+    cursor: pointer;
+  }
+
+  .counter {
+    font-size: 24px;
+    text-align: center;
+  }
